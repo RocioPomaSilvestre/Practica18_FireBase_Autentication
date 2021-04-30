@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Practica18_FireBase_Autentication"

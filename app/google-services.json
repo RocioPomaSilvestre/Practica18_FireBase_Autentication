@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267810175231",
+    "project_id": "practica18-autenticacion",
+    "storage_bucket": "practica18-autenticacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267810175231:android:00e60114638bce12edf4ca",
+        "android_client_info": {
+          "package_name": "com.rocio.poma.practica18_firebase_autentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267810175231-5h0qf0rhrfcia7n23sk83gjpves7v65f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtbbNXiKcmr7QrwEBHyXXaNxTUG8nUvzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267810175231-5h0qf0rhrfcia7n23sk83gjpves7v65f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
